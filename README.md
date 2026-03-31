@@ -41,9 +41,9 @@
 - Advanced Content Browsing
 - Fast & Responsive Interface
 - Constantly Expanding Feature Set
-
 ---
-
+(Showcase)[https://github.com/sbmur/SebFlix/blob/main/assets/icons/Showcase.png]
+---
 ## ⚠️ Disclaimer
 
 > **SebFlix does NOT host any media files.**  
