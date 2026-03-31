@@ -42,7 +42,7 @@
 - Fast & Responsive Interface
 - Constantly Expanding Feature Set
 ---
-[Showcase](https://github.com/sbmur/SebFlix/blob/main/assets/icons/Showcase.png)
+![Showcase](https://raw.githubusercontent.com/sbmur/SebFlix/main/assets/icons/Showcase.png)
 ---
 ## ⚠️ Disclaimer
 
