@@ -1,3 +1,6 @@
+# NOTE: Source code is outdated just download from releases
+
+
 # 🎬 SebFlix
 
 **SebFlix** is a modern, feature-rich Movie & TV desktop application designed for a smooth, customizable, and ad-free streaming experience.
